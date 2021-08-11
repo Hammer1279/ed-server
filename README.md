@@ -1,7 +1,7 @@
 ED-Server
 ==========
 
-> This Server supports both `ED-MFD` by `@wooffighter` and `ed-tracker` by `@Hammer1279`
+> This Server supports both `ED-MFD` by `@fightingdoggo` and `ed-tracker` by `@Hammer1279`
 > You can connect either via `Rest-API` or `WebSocket`
 ---
 
