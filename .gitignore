@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Tracker Testing FIles
+ed-tracker-testing/
